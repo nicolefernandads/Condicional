@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(86, 142, 194);
+}
+
+input{
+    border-radius: 15px;
+    border-color:rgb(3, 5, 5);
+   
+}
+
+button{
+    background-color: rgb(148, 34, 121);
+    color: rgb(255, 250, 250);
+}
